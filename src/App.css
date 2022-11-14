@@ -163,7 +163,7 @@ span.navbar-text {
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 .banner h1 {
@@ -246,7 +246,7 @@ span.navbar-text {
   background-color: rgb(3, 17, 24);
   padding-bottom: 3rem;
   padding-top: 3rem;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 
 .about-me-parent {
@@ -365,7 +365,7 @@ h2{
   padding: 64px 0 24px 0;
   position: relative;
   background-color: #010e15;
-  min-height: 100vh;
+  /* min-height: 100vh; */
 }
 .project h2 {
 	font-size: 45px;
